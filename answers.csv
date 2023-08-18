@@ -1,0 +1,8 @@
+registro,idade,sexo,tabagismo,tabagismo_ativo,carga_tabagica,tempo,tipo,etilismo,frequencia,tipo_bebida,tempo_duração,Irritação crônica,"Se irritação cronica, especificar",Exposição solar,Tempo de duração e evolução da lesão,Tratamento prévio ,Realizou biópsia após quanto tempo do início de lesão,Localização da Lesão,Resultado histopatológico: Registro,Data,Avaliação das lâminas: Data,Avaliador,Subtipo histológico,queratinizacao,pleomorfismo_nuclear,padrao_invasao,infiltrado_linfoplasmocitico,somatoria_divisao_4,estadiamento_patologico
+DPML030,53,M,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,lingua e assoalho,-1,-1,-1,-1,convencional,1,4,4,2,2.75,4
+DPML034,68,M,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,>60 dias,-1,-1,língua,-1,-1,-1,-1,convencional,2,3,4,2,2.75,2
+DPML001,66,M,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,"Dor, difuculdade para movimentar a língua",-1,>60 dias,-1,-1,Língua ,-1,-1,-1,-1,convencional,1,4,4,3,3,-1
+DPML045,60,M,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,Língua,-1,-1,-1,-1,convencional,2,4,4,1,2.75,2
+DPML048,64,M,1,1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,Língua,-1,-1,-1,-1,convencional,3,4,2,2,2.75,1
+DPML055,-1,M,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,Língua,-1,-1,-1,-1,convencional,2,4,3,2,2.75,2
+DPML056,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,convencional,1,2,2,1,1.5,2
